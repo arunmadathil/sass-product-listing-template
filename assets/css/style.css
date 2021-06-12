@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2&family=Inconsolata:wght@300&family=Mate+SC&family=Raleway&family=Rubik&display=swap");
+button, button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+.width-max {
+  width: 100%;
+}
+
+.font-mate {
+  font-family: "Mate SC", serif;
+}
+
+.font-baloo {
+  font-family: "Baloo 2", cursive;
+}
+
+.font-rubik {
+  font-family: "Rubik", sans-serif;
+}
+
+.font-rale {
+  font-family: "Raleway", sans-serif;
+}
+
+.font-inconsolate {
+  font-family: "Inconsolata", monospace;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 14px;
+}
+
+.bg-color-primary {
+  background-color: blue;
+}
+
+.bg-color-secondary {
+  background-color: #00bfff;
+}
+
+.bg-color-third {
+  background-color: yellow;
+}
+
+.product span.badge {
+  position: relative;
+  top: -190px;
+  left: 82%;
+}
+
+.product:hover {
+  background: #fff;
+  box-shadow: 2px 2px 15px 0 rgba(135, 135, 135, 0.4);
+  transition: all 0.5s ease 0s;
+}
+
+/*# sourceMappingURL=style.css.map */

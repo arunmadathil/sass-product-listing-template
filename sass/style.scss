@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Inconsolata:wght@300&family=Mate+SC&family=Raleway&family=Rubik&display=swap');
+@import './include/variable.scss';
+@import './include/global.scss';
+@import './include/typography.scss';
+@import './include/color.scss';
+
+.product span.badge{
+    position: relative;
+    top: -190px;
+    left: 82%;
+}
+.product:hover{
+    background:#fff;
+    box-shadow: 2px 2px 15px 0 rgba(135,135,135, 0.4);
+    transition: all 0.5s ease 0s;
+}
